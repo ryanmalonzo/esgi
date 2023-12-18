@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  nginx:
+    image: nginx
+    ports:
+      - 8080:80
+    volumes:
+      - ./index.html:/usr/share/nginx/html/index.html
+
+  ssh:
+    build: .
+    ports:
+      - 22:22
+
+  db:
+    image: mariadb
+    environment:
+      MARIADB_ROOT_PASSWORD: root-password
+      MARIADB_USER: user
+      MARIADB_PASSWORD: password
+      MARIADB_DATABASE: database
+
+  adminer:
+    image: adminer
+    ports:
+      - 8081:8080
+

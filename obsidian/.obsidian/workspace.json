@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "4970ac13adb00eaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "31a96aa55c85cfc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f39539ef203252d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/18-12-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7e525ec3f402ee9",
+    "type": "split",
+    "children": [
+      {
+        "id": "51fa4e68cba717f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8629e30bcb6b93ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac800b99c06f0724",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a67d1bdb55f9073",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "40dd7132e99c1a62",
+    "type": "split",
+    "children": [
+      {
+        "id": "4341685be1280b01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f426291e18434ce1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "English/18-12-23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "486eccd67491f15e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "English/18-12-23.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae65a29c55d3531d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5e41bc2bf3f0bb3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "English/18-12-23.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f39539ef203252d0",
+  "lastOpenFiles": [
+    "Intégration/21-11-23.md",
+    "English/18-12-23.md",
+    "English/20-11-23.md",
+    "UX/26-10-23.md",
+    "UX/24-10-23.md",
+    "SQL/21-11-23.md",
+    "Symfony/23-11-23.md",
+    "Symfony/25-10-23.md",
+    "Sécurité/22-11-23.md",
+    "Méthodologie agile/22-11-23.md",
+    "Méthodologie agile/27-09-23.md",
+    "Méthodologie agile/25-10-23.md",
+    "Intégration/support de cours - partie 1.pdf",
+    "SQL/23-10-23.md",
+    "Méthodologie agile/25-09-23.md",
+    "Docker/Cours Docker.pdf",
+    "Docker/20-11-23.md",
+    "Docker/27-09-23.md",
+    "Sécurité/MALONZO_SQL_Injection_aveugle.md",
+    "English",
+    "Intégration/28-09-23.md",
+    "Sécurité/26-10-23.md",
+    "UX/Cours_UXUI_Accessibilite_.pdf",
+    "Sécurité",
+    "UX/UX Arborescence.drawio",
+    "UX/Grille_Evaluation_ESGI.pdf",
+    "UX/Briefs_Creatif_.pdf",
+    "UX/Cours_UXUI_Accessibilite_-1.pdf",
+    "UX/PPT_NintendoSwitch_Lauryl-Gbei_Hassina-Driche.pdf",
+    "Challenge S1/24-10-23.md",
+    "Symfony/28-09-23.md",
+    "Intégration/26-09-23.md"
+  ]
+}
