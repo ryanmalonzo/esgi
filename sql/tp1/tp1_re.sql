@@ -98,8 +98,8 @@ WITH top_platforms AS (
   SELECT
     genre,
     platform,
-    sum(eu_sales + na_sales + jp_sales + other_sales) OVER (PARTITION BY genre) AS sales,
-    rank() OVER (PARTITION BY platform) AS rank
+    sum(eu_sales + na_sales + jp_sales + other_sales) AS sales,
+    rank() OVER (PARTITION BY genre ORDER BY sum(eu_sales + na_sales + jp_sales + other_sales)) AS rank
   FROM video_game_sales
 )
 SELECT DISTINCT genre, platform, sales 
