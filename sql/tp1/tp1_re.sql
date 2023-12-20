@@ -60,3 +60,48 @@ FROM mario_sales
 WHERE year IS NOT NULL
 ORDER BY year DESC;
 
+-- Exercice 6
+WITH ranked_sales AS (
+  SELECT 
+    name, 
+    year, 
+    eu_sales + na_sales + jp_sales + other_sales AS sales,
+    rank() OVER (PARTITION BY year ORDER BY eu_sales + na_sales + jp_sales + other_sales) AS rank
+  FROM video_game_sales
+)
+SELECT
+  name,
+  year,
+  sales
+FROM ranked_sales 
+WHERE rank = 1
+AND year IS NOT NULL
+ORDER BY year DESC;
+
+-- Exercice 7
+-- Je crois pas que ce soit ça mais j'y passe trop de temps et je saurai jamais de toute façon (:
+WITH cumulative_sales AS (
+  SELECT 
+  name,
+  genre,
+  year, 
+  eu_sales + na_sales + jp_sales + other_sales AS sales,
+  sum(eu_sales + na_sales + jp_sales + other_sales) OVER (ORDER BY year) AS cml_sales 
+  FROM video_game_sales
+  WHERE genre = 'Strategy'
+)
+SELECT name, year, sales, cml_sales
+FROM cumulative_sales;
+
+-- Exercice 8
+WITH top_platforms AS (
+  SELECT
+    genre,
+    platform,
+    sum(eu_sales + na_sales + jp_sales + other_sales) OVER (PARTITION BY genre) AS sales,
+    rank() OVER (PARTITION BY platform) AS rank
+  FROM video_game_sales
+)
+SELECT DISTINCT genre, platform, sales 
+FROM top_platforms
+WHERE rank = 1;

@@ -68,6 +68,7 @@ FROM ranked_sales
 WHERE rank = 1;
 
 -- Exercice 7
+-- Ce truc n'est probablement pas la bonne interprétation de l'exercice
 WITH strategy_sales_year AS (
   SELECT name, year, 
   na_sales + eu_sales + jp_sales + other_sales AS sales,
