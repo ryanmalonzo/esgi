@@ -30,3 +30,33 @@ FROM publisher_nb_games
 WHERE nb_games >= 100
 ORDER BY nb_games DESC;
 
+-- Exercice 4
+WITH game_sales AS (
+  SELECT name, genre, eu_sales + na_sales + jp_sales + other_sales AS sales
+  FROM video_game_sales
+  GROUP BY name, genre, sales
+)
+SELECT *
+FROM game_sales
+ORDER BY genre, sales DESC;
+WITH game_sales AS (
+  SELECT name, genre, eu_sales + na_sales + jp_sales + other_sales AS sales
+  FROM video_game_sales
+  GROUP BY name, genre, sales
+)
+SELECT *
+FROM game_sales
+ORDER BY genre, sales DESC;
+
+-- Exercice 5
+WITH mario_sales AS (
+  SELECT name, platform, year, eu_sales + na_sales + jp_sales + other_sales AS sales
+  FROM video_game_sales
+  WHERE name ilike 'Mario%'
+  GROUP BY name, platform, year, sales
+)
+SELECT name, platform, year, sales, sum(sales) OVER (PARTITION BY year)
+FROM mario_sales
+WHERE year IS NOT NULL
+ORDER BY year DESC;
+
