@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a90e59e4f5ce7e9f",
+        "id": "3541c5e7698a5069",
         "type": "tabs",
         "children": [
           {
-            "id": "97339892fe905698",
+            "id": "1b7e59ff66829858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/12-18-23.md",
+                "file": "English/01-15-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/12-18-23.md",
+                "file": "English/01-15-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/12-18-23.md",
+                "file": "English/01-15-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/12-18-23.md"
+                "file": "English/01-15-24.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97339892fe905698",
+  "active": "1b7e59ff66829858",
   "lastOpenFiles": [
-    "English/11-20-23.md",
+    "English/MALONZO_Ryan_snowden_interview.pdf",
+    "English/01-15-24.md",
     "English/12-18-23.md",
+    "English/11-20-23.md",
     "Symfony/12-21-23.md",
     "SQL/12-21-23.md",
     "Méthodologie agile/09-25-23.md",
@@ -180,9 +182,6 @@
     "Sécurité/10-26-23.md",
     "Sécurité",
     "UX/UX Arborescence.drawio",
-    "UX/Cours_UXUI_Accessibilite_-1.pdf",
-    "Challenge S1/10-24-23.md",
-    "Symfony/09-28-23.md",
-    "Intégration/09-26-23.md"
+    "Challenge S1/10-24-23.md"
   ]
 }
