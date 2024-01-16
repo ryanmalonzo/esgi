@@ -17,9 +17,10 @@ ORDER BY rank DESC;
 SELECT
     name,
     (eu_sales + na_sales + jp_sales + other_sales) AS sales,
-    cume_dist() OVER (ORDER BY (eu_sales + na_sales + jp_sales + other_sales) DESC) AS dist
+    cume_dist() OVER (ORDER BY (eu_sales + na_sales + jp_sales + other_sales)) AS dist
 FROM video_game_sales
-WHERE platform = 'PS4';
+WHERE platform = 'PS4'
+ORDER BY dist DESC;
 
 -- Exercice 3
 SELECT
@@ -79,9 +80,15 @@ SELECT
 FROM video_game_sales;
 
 -- Exercice 9
-WITH RECURSIVE h(init_h, init_sub, nb_employees) AS (
-    VALUES (1, SELECT min())
+-- Correction
+-- C'est la jointure qui fait l'association entre le nouveau level (level + 1) à associer
+-- aux subordonnés et le manager en cours
+WITH RECURSIVE managers AS (
+    SELECT id, name, manager_id, job, 1 AS level
+    FROM employees
+    WHERE id = 1
   UNION ALL
-    SELECT m+2, n+1 FROM h WHERE n < 100
+    SELECT e.id, e.name, e.manager_id, e.job, managers.level + 1 AS level
+    FROM employees AS e INNER JOIN managers ON e.manager_id = managers.id
 )
-SELECT * FROM t;
+SELECT * FROM managers;
