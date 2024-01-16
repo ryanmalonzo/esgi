@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/01-15-24.md",
+                "file": "SQL/01-16-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/01-15-24.md",
+                "file": "SQL/01-16-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/01-15-24.md",
+                "file": "SQL/01-16-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/01-15-24.md"
+                "file": "SQL/01-16-24.md"
               }
             }
           }
@@ -148,20 +148,23 @@
   },
   "active": "1b7e59ff66829858",
   "lastOpenFiles": [
-    "English/MALONZO_Ryan_snowden_interview.pdf",
+    "SQL/sql_exec_order.png",
+    "SQL/01-16-24.md",
+    "SQL/12-21-23.md",
+    "SQL/10-23-23.md",
+    "UX/Cours_UXUI_Accessibilite_.pdf",
+    "UX/Briefs_Creatif_.pdf",
+    "Méthodologie agile/12-20-23.md",
     "English/01-15-24.md",
+    "English/MALONZO_Ryan_snowden_interview.pdf",
     "English/12-18-23.md",
     "English/11-20-23.md",
     "Symfony/12-21-23.md",
-    "SQL/12-21-23.md",
     "Méthodologie agile/09-25-23.md",
     "Méthodologie agile/10-25-23.md",
     "Méthodologie agile/09-27-23.md",
-    "Méthodologie agile/12-20-23.md",
     "Méthodologie agile/11-22-23.md",
     "UX/Grille_Evaluation_ESGI.pdf",
-    "UX/Cours_UXUI_Accessibilite_.pdf",
-    "UX/Briefs_Creatif_.pdf",
     "UX/10-26-23.md",
     "UX/10-24-23.md",
     "UX/12-19-23.md",
@@ -172,7 +175,6 @@
     "Symfony/10-25-23.md",
     "Sécurité/22-11-23.md",
     "Intégration/support de cours - partie 1.pdf",
-    "SQL/10-23-23.md",
     "Docker/Cours Docker.pdf",
     "Docker/11-20-23.md",
     "Docker/09-27-23.md",
@@ -181,7 +183,6 @@
     "Intégration/09-28-23.md",
     "Sécurité/10-26-23.md",
     "Sécurité",
-    "UX/UX Arborescence.drawio",
-    "Challenge S1/10-24-23.md"
+    "UX/UX Arborescence.drawio"
   ]
 }

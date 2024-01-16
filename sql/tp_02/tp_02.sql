@@ -1,15 +1,17 @@
 -- Exercice 1
-WITH action_sales AS (
+WITH sales AS (
   SELECT
     name,
+    genre,
     (eu_sales + na_sales + jp_sales + other_sales) AS sales,
-    percent_rank() OVER (ORDER BY (eu_sales + na_sales + jp_sales + other_sales) DESC) AS rank
+    percent_rank() OVER (ORDER BY (eu_sales + na_sales + jp_sales + other_sales)) AS rank
   FROM video_game_sales
   WHERE genre = 'Action'
-  AND rank <= 0.1;
 )
 SELECT *
-FROM action_sales
+FROM sales
+WHERE rank >= 0.9
+ORDER BY rank DESC;
 
 -- Exercice 2
 SELECT
@@ -77,6 +79,9 @@ SELECT
 FROM video_game_sales;
 
 -- Exercice 9
-
-
-
+WITH RECURSIVE h(init_h, init_sub, nb_employees) AS (
+    VALUES (1, SELECT min())
+  UNION ALL
+    SELECT m+2, n+1 FROM h WHERE n < 100
+)
+SELECT * FROM t;
