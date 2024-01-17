@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3541c5e7698a5069",
+        "id": "b203d7dad956cc6f",
         "type": "tabs",
         "children": [
           {
-            "id": "1b7e59ff66829858",
+            "id": "a26f75d0c82b44e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/01-16-24.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b7e59ff66829858",
+  "active": "8629e30bcb6b93ec",
   "lastOpenFiles": [
     "SQL/sql_exec_order.png",
     "SQL/01-16-24.md",
