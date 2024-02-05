@@ -105,3 +105,46 @@ WITH top_platforms AS (
 SELECT DISTINCT genre, platform, sales 
 FROM top_platforms
 WHERE rank = 1;
+
+-- Feb 5
+
+-- Exercice 4
+with sales_genre as (
+  select name,
+  eu_sales+na_sales+jp_sales+other_sales as sales,
+  genre,
+  rank() over (
+    partition by (genre)
+    order by eu_sales+na_sales+jp_sales+other_sales desc
+  )
+  from video_game_sales
+)
+select *
+from sales_genre;
+
+-- Exercice 5
+select name,
+eu_sales+jp_sales+na_sales+other_sales as sales,
+year,
+sum(eu_sales+jp_sales+na_sales+other_sales) over (
+  partition by (year)
+) as cum_sales
+from video_game_sales
+where name ilike 'mario%'
+order by year;
+
+-- Exercice 6
+with ranked_sales_per_year as (
+  select name,
+  year,
+  eu_sales+na_sales+jp_sales+other_sales as sales,
+  rank() over (
+    partition by (year)
+    order by eu_sales+na_sales+jp_sales+other_sales desc
+  ) as rk 
+  from video_game_sales
+)
+select *
+from ranked_sales_per_year
+where rk = 1
+order by year;
