@@ -11,8 +11,12 @@
             "id": "a26f75d0c82b44e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SQL/02-05-24.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/01-16-24.md",
+                "file": "SQL/02-05-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/01-16-24.md",
+                "file": "SQL/02-05-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/01-16-24.md"
+                "file": "SQL/02-05-24.md"
               }
             }
           }
@@ -142,10 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8629e30bcb6b93ec",
+  "active": "a26f75d0c82b44e1",
   "lastOpenFiles": [
-    "SQL/sql_exec_order.png",
+    "Docker/11-20-23.md",
+    "SQL/02-05-24.md",
+    "Docker/09-27-23.md",
+    "Symfony/11-23-23.md",
+    "Symfony/10-25-23.md",
+    "Symfony/09-28-23.md",
+    "Docker/Cours Docker.pdf",
+    "Sécurité/10-26-23.md",
+    "Sécurité/MALONZO_SQL_Injection_aveugle.md",
     "SQL/01-16-24.md",
+    "SQL/sql_exec_order.png",
     "SQL/12-21-23.md",
     "SQL/10-23-23.md",
     "UX/Cours_UXUI_Accessibilite_.pdf",
@@ -167,17 +180,9 @@
     "UX/PPT_NintendoSwitch_Lauryl-Gbei_Hassina-Driche.pdf",
     "Intégration/11-21-23.md",
     "SQL/11-21-23.md",
-    "Symfony/11-23-23.md",
-    "Symfony/10-25-23.md",
     "Sécurité/22-11-23.md",
     "Intégration/support de cours - partie 1.pdf",
-    "Docker/Cours Docker.pdf",
-    "Docker/11-20-23.md",
-    "Docker/09-27-23.md",
-    "Sécurité/MALONZO_SQL_Injection_aveugle.md",
     "English",
-    "Intégration/09-28-23.md",
-    "Sécurité/10-26-23.md",
     "Sécurité",
     "UX/UX Arborescence.drawio"
   ]
