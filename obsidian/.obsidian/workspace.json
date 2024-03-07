@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEO/6 mars 2024.md",
+                "file": "Administration et sécurisation de serveur web/7 mars 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEO/6 mars 2024.md",
+                "file": "Administration et sécurisation de serveur web/7 mars 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEO/6 mars 2024.md",
+                "file": "Administration et sécurisation de serveur web/7 mars 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEO/6 mars 2024.md"
+                "file": "Administration et sécurisation de serveur web/7 mars 2023.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "a99de1dcab67a238",
   "lastOpenFiles": [
-    "SEO/6 mars 2024.md",
     "Untitled.md",
+    "Administration et sécurisation de serveur web/7 mars 2023.md",
+    "Vue/7 mars 2024.md",
+    "Untitled",
+    "Administration et sécurisation de serveur web",
+    "SEO/6 mars 2024.md",
+    "Vue",
     "SEO",
     "UX/Briefs_Creatif_.pdf",
     "SQL/02-05-24.md",
@@ -179,11 +184,6 @@
     "UX/Grille_Evaluation_ESGI.pdf",
     "UX/10-26-23.md",
     "UX/10-24-23.md",
-    "UX/12-19-23.md",
-    "UX/PPT_NintendoSwitch_Lauryl-Gbei_Hassina-Driche.pdf",
-    "Intégration/11-21-23.md",
-    "Intégration/support de cours - partie 1.pdf",
-    "English",
-    "Sécurité"
+    "UX/PPT_NintendoSwitch_Lauryl-Gbei_Hassina-Driche.pdf"
   ]
 }
