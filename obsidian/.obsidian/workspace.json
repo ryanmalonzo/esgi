@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Administration et sécurisation de serveur web/7 mars 2023.md",
+                "file": "Node.js et MongoDB/8 mars 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administration et sécurisation de serveur web/7 mars 2023.md",
+                "file": "Node.js et MongoDB/8 mars 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Administration et sécurisation de serveur web/7 mars 2023.md",
+                "file": "Node.js et MongoDB/8 mars 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Administration et sécurisation de serveur web/7 mars 2023.md"
+                "file": "Node.js et MongoDB/8 mars 2024.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "a99de1dcab67a238",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Administration et sécurisation de serveur web/7 mars 2023.md",
     "Vue/7 mars 2024.md",
-    "Untitled",
+    "Node.js et MongoDB/8 mars 2024.md",
+    "Node.js et MongoDB",
+    "Administration et sécurisation de serveur web/7 mars 2023.md",
+    "Untitled.md",
     "Administration et sécurisation de serveur web",
     "SEO/6 mars 2024.md",
     "Vue",
@@ -183,7 +184,6 @@
     "Méthodologie agile/11-22-23.md",
     "UX/Grille_Evaluation_ESGI.pdf",
     "UX/10-26-23.md",
-    "UX/10-24-23.md",
     "UX/PPT_NintendoSwitch_Lauryl-Gbei_Hassina-Driche.pdf"
   ]
 }
