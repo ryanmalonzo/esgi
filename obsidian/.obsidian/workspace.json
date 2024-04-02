@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js et MongoDB/8 mars 2024.md",
+                "file": "RGPD/2 avril 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js et MongoDB/8 mars 2024.md",
+                "file": "RGPD/2 avril 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node.js et MongoDB/8 mars 2024.md",
+                "file": "RGPD/2 avril 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js et MongoDB/8 mars 2024.md"
+                "file": "RGPD/2 avril 2024.md"
               }
             }
           }
@@ -146,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a99de1dcab67a238",
+  "active": "8629e30bcb6b93ec",
   "lastOpenFiles": [
-    "Vue/7 mars 2024.md",
+    "001 Semestre 1",
+    "RGPD/8 mars 2024.md",
+    "Challenge S2/2 avril 2024.md",
+    "RGPD/2 avril 2024.md",
+    "Challenge S2",
     "Node.js et MongoDB/8 mars 2024.md",
+    "Vue/7 mars 2024.md",
     "Node.js et MongoDB",
     "Administration et sécurisation de serveur web/7 mars 2023.md",
     "Untitled.md",
@@ -157,33 +162,28 @@
     "SEO/6 mars 2024.md",
     "Vue",
     "SEO",
-    "UX/Briefs_Creatif_.pdf",
-    "SQL/02-05-24.md",
-    "Docker/11-20-23.md",
-    "Docker/09-27-23.md",
-    "Symfony/11-23-23.md",
-    "Symfony/10-25-23.md",
-    "Symfony/09-28-23.md",
-    "Docker/Cours Docker.pdf",
-    "Sécurité/10-26-23.md",
-    "Sécurité/MALONZO_SQL_Injection_aveugle.md",
-    "SQL/01-16-24.md",
-    "SQL/sql_exec_order.png",
-    "SQL/12-21-23.md",
-    "SQL/10-23-23.md",
-    "UX/Cours_UXUI_Accessibilite_.pdf",
-    "Méthodologie agile/12-20-23.md",
-    "English/01-15-24.md",
-    "English/MALONZO_Ryan_snowden_interview.pdf",
-    "English/12-18-23.md",
-    "English/11-20-23.md",
-    "Symfony/12-21-23.md",
-    "Méthodologie agile/09-25-23.md",
-    "Méthodologie agile/10-25-23.md",
-    "Méthodologie agile/09-27-23.md",
-    "Méthodologie agile/11-22-23.md",
-    "UX/Grille_Evaluation_ESGI.pdf",
-    "UX/10-26-23.md",
-    "UX/PPT_NintendoSwitch_Lauryl-Gbei_Hassina-Driche.pdf"
+    "001 Semestre 1/UX/Briefs_Creatif_.pdf",
+    "001 Semestre 1/SQL/02-05-24.md",
+    "001 Semestre 1/Docker/11-20-23.md",
+    "001 Semestre 1/Docker/09-27-23.md",
+    "001 Semestre 1/Symfony/11-23-23.md",
+    "001 Semestre 1/Symfony/10-25-23.md",
+    "001 Semestre 1/Symfony/09-28-23.md",
+    "001 Semestre 1/Docker/Cours Docker.pdf",
+    "001 Semestre 1/Sécurité/10-26-23.md",
+    "001 Semestre 1/Sécurité/MALONZO_SQL_Injection_aveugle.md",
+    "001 Semestre 1/SQL/01-16-24.md",
+    "001 Semestre 1/SQL/sql_exec_order.png",
+    "001 Semestre 1/SQL/12-21-23.md",
+    "001 Semestre 1/SQL/10-23-23.md",
+    "001 Semestre 1/UX/Cours_UXUI_Accessibilite_.pdf",
+    "001 Semestre 1/Méthodologie agile/12-20-23.md",
+    "001 Semestre 1/English/01-15-24.md",
+    "001 Semestre 1/English/MALONZO_Ryan_snowden_interview.pdf",
+    "001 Semestre 1/English/12-18-23.md",
+    "001 Semestre 1/English/11-20-23.md",
+    "001 Semestre 1/Symfony/12-21-23.md",
+    "001 Semestre 1/Méthodologie agile/09-25-23.md",
+    "001 Semestre 1/UX/Grille_Evaluation_ESGI.pdf"
   ]
 }
