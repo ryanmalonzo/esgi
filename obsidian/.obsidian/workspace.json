@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RGPD/2 avril 2024.md",
+                "file": "Challenge S2/2 avril 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RGPD/2 avril 2024.md",
+                "file": "Challenge S2/2 avril 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RGPD/2 avril 2024.md",
+                "file": "Challenge S2/2 avril 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RGPD/2 avril 2024.md"
+                "file": "Challenge S2/2 avril 2024.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8629e30bcb6b93ec",
+  "active": "a99de1dcab67a238",
   "lastOpenFiles": [
+    "RGPD/2 avril 2024.md",
     "001 Semestre 1",
     "RGPD/8 mars 2024.md",
     "Challenge S2/2 avril 2024.md",
-    "RGPD/2 avril 2024.md",
     "Challenge S2",
     "Node.js et MongoDB/8 mars 2024.md",
     "Vue/7 mars 2024.md",
@@ -183,7 +183,6 @@
     "001 Semestre 1/English/12-18-23.md",
     "001 Semestre 1/English/11-20-23.md",
     "001 Semestre 1/Symfony/12-21-23.md",
-    "001 Semestre 1/Méthodologie agile/09-25-23.md",
-    "001 Semestre 1/UX/Grille_Evaluation_ESGI.pdf"
+    "001 Semestre 1/Méthodologie agile/09-25-23.md"
   ]
 }
