@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a158e58326f327b9",
+        "id": "fc7a8785d6b69605",
         "type": "tabs",
         "children": [
           {
-            "id": "a99de1dcab67a238",
+            "id": "c7df83e4c5814ea2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Challenge S2/2 avril 2024.md",
+                "file": "RGPD/2 avril 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Challenge S2/2 avril 2024.md",
+                "file": "RGPD/2 avril 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Challenge S2/2 avril 2024.md",
+                "file": "RGPD/2 avril 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Challenge S2/2 avril 2024.md"
+                "file": "RGPD/2 avril 2024.md"
               }
             }
           }
@@ -146,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a99de1dcab67a238",
+  "active": "c7df83e4c5814ea2",
   "lastOpenFiles": [
+    "RGPD/4 avril 2024.md",
     "RGPD/2 avril 2024.md",
-    "001 Semestre 1",
     "RGPD/8 mars 2024.md",
+    "Vue/3 avril 2024.md",
     "Challenge S2/2 avril 2024.md",
+    "001 Semestre 1",
     "Challenge S2",
     "Node.js et MongoDB/8 mars 2024.md",
     "Vue/7 mars 2024.md",
@@ -182,7 +184,6 @@
     "001 Semestre 1/English/MALONZO_Ryan_snowden_interview.pdf",
     "001 Semestre 1/English/12-18-23.md",
     "001 Semestre 1/English/11-20-23.md",
-    "001 Semestre 1/Symfony/12-21-23.md",
-    "001 Semestre 1/Méthodologie agile/09-25-23.md"
+    "001 Semestre 1/Symfony/12-21-23.md"
   ]
 }
