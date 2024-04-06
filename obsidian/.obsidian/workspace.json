@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RGPD/2 avril 2024.md",
+                "file": "SEO/5 avril 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RGPD/2 avril 2024.md",
+                "file": "SEO/5 avril 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RGPD/2 avril 2024.md",
+                "file": "SEO/5 avril 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RGPD/2 avril 2024.md"
+                "file": "SEO/5 avril 2024.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "c7df83e4c5814ea2",
   "lastOpenFiles": [
-    "RGPD/4 avril 2024.md",
+    "SEO/6 mars 2024.md",
+    "SEO/5 avril 2024.md",
     "RGPD/2 avril 2024.md",
+    "RGPD/4 avril 2024.md",
     "RGPD/8 mars 2024.md",
     "Vue/3 avril 2024.md",
     "Challenge S2/2 avril 2024.md",
@@ -161,7 +163,6 @@
     "Administration et sécurisation de serveur web/7 mars 2023.md",
     "Untitled.md",
     "Administration et sécurisation de serveur web",
-    "SEO/6 mars 2024.md",
     "Vue",
     "SEO",
     "001 Semestre 1/UX/Briefs_Creatif_.pdf",
@@ -183,7 +184,6 @@
     "001 Semestre 1/English/01-15-24.md",
     "001 Semestre 1/English/MALONZO_Ryan_snowden_interview.pdf",
     "001 Semestre 1/English/12-18-23.md",
-    "001 Semestre 1/English/11-20-23.md",
-    "001 Semestre 1/Symfony/12-21-23.md"
+    "001 Semestre 1/English/11-20-23.md"
   ]
 }
