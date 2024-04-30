@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc7a8785d6b69605",
+        "id": "b309042a9f63f2ad",
         "type": "tabs",
         "children": [
           {
-            "id": "c7df83e4c5814ea2",
+            "id": "b87428c2862b101f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hackathon/Groupe 11.md",
+                "file": "Hackathon/Jour 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hackathon/Groupe 11.md",
+                "file": "Hackathon/Jour 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackathon/Groupe 11.md",
+                "file": "Hackathon/Jour 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackathon/Groupe 11.md"
+                "file": "Hackathon/Jour 2.md"
               }
             }
           }
@@ -146,9 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7df83e4c5814ea2",
+  "active": "b87428c2862b101f",
   "lastOpenFiles": [
-    "Hackathon/22 avril 2024.md",
+    "Hackathon/Untitled.md",
+    "Hackathon/Jour 2.md",
+    "Hackathon/Jour 1.md",
     "Hackathon/Groupe 11.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -182,8 +184,6 @@
     "001 Semestre 1/SQL/01-16-24.md",
     "001 Semestre 1/SQL/sql_exec_order.png",
     "001 Semestre 1/SQL/12-21-23.md",
-    "001 Semestre 1/SQL/10-23-23.md",
-    "001 Semestre 1/UX/Cours_UXUI_Accessibilite_.pdf",
-    "001 Semestre 1/Méthodologie agile/12-20-23.md"
+    "001 Semestre 1/UX/Cours_UXUI_Accessibilite_.pdf"
   ]
 }
